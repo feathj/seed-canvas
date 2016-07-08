@@ -1,0 +1,8 @@
+{
+  "name": "seed-canvas",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.12.0"
+  }
+}

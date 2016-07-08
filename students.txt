@@ -1,0 +1,536 @@
+Wil van der Aalst
+Scott Aaronson
+Hal Abelson
+Serge Abiteboul
+Samson Abramsky
+Leonard Adleman
+Manindra Agrawal
+Luis von Ahn
+Alfred Aho
+Frances E. Allen
+Gene Amdahl
+David P. Anderson
+Andrew Appel
+Abhishek Jaguessar
+Bruce Arden
+Sanjeev Arora
+Alice Asprey
+John Vincent Atanasoff
+Charles Babbage
+Charles Bachman
+Roland Carl Backhouse
+John Backus
+David A. Bader
+Victor Bahl
+Anthony James Barr
+Jean Bartik
+Andrew Barto
+Rudolf Bayer
+James C. Beatty
+Gordon Bell
+Steven M. Bellovin
+Tim Berners-Lee
+Daniel J. Bernstein
+Peter Bernus
+Dines Bjørner
+Gerrit Blaauw
+Sue Black
+David Blei
+Dorothy Blum
+Lenore Blum
+Manuel Blum
+Barry Boehm
+Corrado Bohm
+Kurt Bollacker
+Jeff Bonwick
+Grady Booch
+George Boole
+Anita Borg
+Bert Bos
+Jonathan Bowen
+Stephen R. Bourne
+Harry Bouwman
+Robert S. Boyer
+Jack E. Bresenham
+Sergey Brin
+David J. Brown
+Per Brinch Hansen
+Sjaak Brinkkemper
+Fred Brooks
+Rod Brooks
+Michael Butler
+Rajkumar Buyya
+Tracy Camp
+Martin Campbell-Kelly
+Rosemary Candlin
+Bryan Cantrill
+Luca Cardelli
+Edwin Catmull
+Vinton Cerf
+Gregory Chaitin
+Zhou Chaochen
+Peter Chen
+Alonzo Church
+Edmund M. Clarke
+John Cocke
+Edgar F. Codd
+Jacques Cohen
+Simon Colton
+Alain Colmerauer
+Paul Justin Compton
+Gordon Cormack
+Stephen Cook
+James Cooley
+Danese Cooper
+Fernando J. Corbató
+Patrick Cousot
+Ingemar Cox
+Seymour Cray
+Nello Cristianini
+Jon Crowcroft
+W. Bruce Croft
+Glen Culler
+Haskell Curry
+Ole-Johan Dahl
+Ryan Dahl
+Andries van Dam
+Samir Das
+Christopher J. Date
+Jeff Dean
+Erik Demaine
+Tom DeMarco
+Richard DeMillo
+Dorothy E. Denning
+Peter J. Denning
+Michael Dertouzos
+Alexander Dewdney
+Vinod Dham
+Jan Dietz
+Whitfield Diffie
+Edsger Dijkstra
+Alan Dix
+Jack Dongarra
+Marco Dorigo
+Paul Dourish
+Charles Stark Draper
+Susan Dumais
+Adam Dunkels
+Peter Eades
+Annie J. Easley
+Wim Ebbinkhuijsen
+John Presper Eckert
+Brendan Eich
+Philip-Emeagwali
+E. Allen Emerson
+Douglas Engelbart
+David Eppstein
+Andrey Ershov
+Don Estridge
+Oren Etzioni
+Christopher Riche Evans
+David C. Evans
+Shimon Even
+Scott Fahlman
+Edward Feigenbaum
+Edward Felten
+Tim Finin
+Raphael Finkel
+Donald Firesmith
+Gary William Flake
+Tommy Flowers
+Robert Floyd
+James D. Foley
+Ken Forbus
+Lance Fortnow
+Martin Fowler
+Herbert W. Franke
+Yoav Freund
+Daniel P. Friedman
+Ping Fu
+Richard Gabriel
+V. K. Govindan
+Zvi Galil
+Bernard Galler
+Hector Garcia-Molina
+Michael Garey
+Hugo de Garis
+Bill Gates
+David Gelernter
+Charles Geschke
+Zoubin Ghahramani
+Lee Giles
+Seymour Ginsburg
+Robert L. Glass
+Kurt Gödel
+Joseph Goguen
+Adele Goldberg
+Ian Goldberg
+Oded Goldreich
+Shafi Goldwasser
+Gene Golub
+Martin Charles Golumbic
+Gastón Gonnet
+James Gosling
+Paul Graham
+Robert M. Graham
+Susan L. Graham
+Jim Gray
+Sheila Greibach
+Ralph Griswold
+Bill Gropp
+Tom Gruber
+Ramanathan V. Guha
+Neil J. Gunther
+Peter G. Gyarmati
+Philipp Matthäus Hahn
+Eldon C. Hall
+Wendy Hall
+Joseph Halpern
+Margaret Hamilton
+Richard Hamming
+Jiawei Han
+Juris Hartmanis
+Johan Håstad
+Les Hatton
+Igor Hawryszkiewycz
+He Jifeng
+Eric Hehner
+Martin Hellman
+Alex Helwani
+Gernot Heiser
+James Hendler
+John L. Hennessy
+Andrew Herbert
+Danny Hillis
+Geoffrey Hinton
+Julia Hirschberg
+C. A. R. Hoare
+John Henry Holland
+Herman Hollerith
+Gerard Holzmann
+Janice Honeyman
+John Hopcroft
+Grace Hopper
+Eric Horvitz
+Alston Householder
+Paul Hudak
+David A. Huffman
+John Hughes
+Watts Humphrey
+Jean Ichbiah
+Dan Ingalls
+Alexandru Iosup
+Mary Jane Irwin
+Kenneth E. Iverson
+Ivar Jacobson
+Anil K. Jain
+Ramesh Jain
+Jonathan James
+David S. Johnson
+Stephen C. Johnson
+Cliff Jones
+Michael I. Jordan
+Mathai Joseph
+Aravind K. Joshi
+Bill Joy
+Steve Jobs
+William Kahan
+Robert E. Kahn
+Avinash Kak
+Poul-Henning Kamp
+David Karger
+Richard Karp
+Narendra Karmarkar
+Marek Karpinski
+Alan Kay
+Neeraj Kayal
+John George Kemeny
+Ken Kennedy
+Brian Kernighan
+Carl Kesselman
+Gregor Kiczales
+Peter T. Kirstein
+Stephen Cole Kleene
+Dan Klein
+Leonard Kleinrock
+Interpolating Cubic Splines
+Donald Knuth
+Andrew Koenig
+Daphne Koller
+Michael Kölling
+Andrey Nikolaevich Kolmogorov
+Janet L. Kolodner
+David Korn
+Kees Koster
+Robert Kowalski
+John Koza
+John Krogstie
+Joseph Kruskal
+Thomas E. Kurtz
+Monica S. Lam
+Leslie Lamport
+Butler W. Lampson
+Peter J. Landin
+Tom Lane
+Börje Langefors
+Chris Lattner
+Steve Lawrence
+Edward D. Lazowska
+Joshua Lederberg
+Manny M Lehman
+Charles E. Leiserson
+Douglas Lenat
+Yann LeCun
+Rasmus Lerdorf
+Max Levchin
+Leonid Levin
+Kevin Leyton-Brown
+J.C.R. Licklider
+David Liddle
+John Lions
+Richard J. Lipton
+Barbara Liskov
+Ada Lovelace
+Eugene Luks
+Nancy Lynch
+Nadia Magnenat Thalmann
+Tom Maibaum
+Zohar Manna
+James Martin
+Robert C. Martin (Uncle Bob)
+John Mashey
+Yuri Matiyasevich
+Yukihiro Matsumoto
+John Mauchly
+Derek McAuley
+John McCarthy
+Andrew McCallum
+Douglas McIlroy
+Chris McKinstry
+Marshall Kirk McKusick
+Lambert Meertens
+Bertrand Meyer
+Silvio Micali
+Robin Milner
+Marvin Minsky
+Tom M. Mitchell
+Paul Mockapetris
+Cleve Moler
+John P. Moon
+Edward F. Moore
+Gordon Moore
+J Strother Moore
+Hans Moravec
+Carroll Morgan
+Robert Tappan Morris
+Joel Moses
+Rajeev Motwani
+Stephen Muggleton
+Alan Mycroft
+Mihai Nadin
+Makoto Nagao
+Frieder Nake
+Peter Naur
+Roger Needham
+James G. Nell
+Bernard de Neumann
+John von Neumann
+Allen Newell
+Max Newman
+Andrew Ng
+Nils Nilsson
+G.M. Nijssen
+Tobias Nipkow
+Jerre Noe
+Emmy Noether
+Peter Nordin
+Donald Norman
+Peter Norvig
+George Novacky
+Emmanuel Nyahuma
+Kristen Nygaard
+T. William Olle
+Steve Omohundro
+John Ousterhout
+Mark Overmars
+Larry Page
+Sankar Pal
+Paritosh Pandya
+Christos Papadimitriou
+David Parnas
+Yale Patt
+David A. Patterson
+Mihai Pătraşcu
+Lawrence Paulson
+Randy Pausch
+Juan Pavón
+Judea Pearl
+David Pearson
+Alan Perlis
+Radia Perlman
+Simon Peyton Jones
+Gordon Plotkin
+Amir Pnueli
+Willem van der Poel
+Emil Post
+Jon Postel
+Franco Preparata
+William H. Press
+Rapelang Rabana
+Michael O. Rabin
+Dragomir R. Radev
+T. V. Raman
+Brian Randell
+Raj Reddy
+David P. Reed
+Trygve Reenskaug
+John C. Reynolds
+Joyce K. Reynolds
+Martin Richards
+Adam Riese
+C. J. van Rijsbergen
+Dennis Ritchie
+Ron Rivest
+Colette Rolland
+Azriel Rosenfeld
+Douglas T. Ross
+Guido van Rossum
+Winston W. Royce
+Rudy Rucker
+Steven Rudich
+Jeff Rulifson
+James Rumbaugh
+Peter Ružička
+George Sadowsky
+Gerard Salton
+Jean E. Sammet
+Claude Sammut
+Carl Sassenrath
+Mahadev Satyanarayanan
+Walter Savitch
+Jonathan Schaeffer
+Wilhelm Schickard
+David A. Schmidt
+Bruce Schneier
+Fred B. Schneider
+Dana Scott
+Michael L. Scott
+Ravi Sethi
+Nigel Shadbolt
+Adi Shamir
+Claude Shannon
+David E. Shaw
+Cliff Shaw
+Scott Shenker
+Sujeet Shenoi
+Ben Shneiderman
+Edward H. Shortliffe
+Joseph Sifakis
+Herbert A. Simon
+Munindar P. Singh
+James Slack
+Daniel Sleator
+Aaron Sloman
+Arne Sølvberg
+Brian Cantwell Smith
+Steven Spewak
+Robert Sproull
+Rohini Kesavan Srihari
+Sargur Srihari
+Maciej Stachowiak
+Richard Stallman
+Ronald Stamper
+Richard E. Stearns
+Guy L. Steele, Jr.
+Thomas Sterling
+W. Richard Stevens
+Larry Stockmeyer
+Michael Stonebraker
+Olaf Storaasli
+Christopher Strachey
+Bjarne Stroustrup
+Madhu Sudan
+Gerald Jay Sussman
+Bert Sutherland
+Ivan Sutherland
+Mario Szegedy
+Roberto Tamassia
+Andrew S. Tanenbaum
+Bernhard Thalheim
+Éva Tardos
+Gábor Tardos
+Robert Tarjan
+Jaime Teevan
+Shang-Hua Teng
+Larry Tesler
+Avie Tevanian
+Charles P. Thacker
+Daniel Thalmann
+Ken Thompson
+Sebastian Thrun
+Walter F. Tichy
+Seinosuke Toda
+Linus Torvalds
+Godfried Toussaint
+Edwin E. Tozer
+Joseph F Traub
+John Tukey
+Murray Turoff
+Alan Turing
+Jeffrey D. Ullman
+Leslie Valiant
+Vladimir Vapnik
+Srinidhi Varadarajan
+Moshe Vardi
+Umesh Vazirani
+Vijay Vazirani
+Manuela M. Veloso
+François Vernadat
+Richard Veryard
+Paul Vitanyi
+Jeffrey Scott Vitter
+Paul Vixie
+David Wagner
+Larry Wall
+David Waltz
+James Z. Wang
+Manfred K. Warmuth
+David H. D. Warren
+Kevin Warwick
+Jan Weglarz
+Peter Wegner
+Peter J. Weinberger
+Mark Weiser
+Joseph Weizenbaum
+David Wheeler
+Franklin H. Westervelt
+Steve Whittaker
+Jennifer Widom
+Gio Wiederhold
+Norbert Wiener
+Adriaan van Wijngaarden
+Mary Allen Wilkes
+Maurice Vincent Wilkes
+Yorick Wilks
+James H. Wilkinson
+Sophie Wilson
+Shmuel Winograd
+Terry Winograd
+Niklaus Wirth
+Neil Wiseman
+Dennis E. Wisnosky
+Stephen Wolfram
+Beatrice Helen Worsley
+Steve Wozniak
+Jie Wu
+William Wulf
+Mihalis Yannakakis
+Andrew Chi-Chih Yao
+John Yen
+Edward Yourdon
+Moti Yung
+Lotfi Zadeh
+Hans Zantema
+Arif Zaman
+Shlomo Zilberstein
+Konrad Zuse
